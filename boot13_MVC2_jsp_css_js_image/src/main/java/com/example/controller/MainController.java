@@ -10,6 +10,7 @@ public class MainController {
 	public String main() {
 		System.out.println("/ 주소 요청///////");
 		System.out.println("/ jenkins 에서 자동인식 배포");
+		System.out.println("/ jenkins 에서 자동인식 aws 배포");
 		return "main";
 	}
 	@GetMapping("/loginForm")

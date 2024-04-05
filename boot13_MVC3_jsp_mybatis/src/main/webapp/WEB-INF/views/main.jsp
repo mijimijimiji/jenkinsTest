@@ -7,7 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-loginForm.jsp
-<a href="/app">메인으로가기</a>
+main.jsp
+<a href="test">테스트 get</a>
+<form action="test" method="post">
+	<button>전송</button>
+</form>
 </body>
 </html>

@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>boot13_MVC3_jsp_mybatis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<package>war</package>
+	<packaging>war</packaging>
 	<name>boot13_MVC1_jsp-1</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
